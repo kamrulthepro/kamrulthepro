@@ -14,11 +14,11 @@ kamrulthepro**
 ✅Bootstarp<br>
 ✅WordPress<br>
 
-- 🔭 I’m currently working on **YouTube** 
-- 🌱 I’m currently learning **JavaScript** 
-- 👯 I’m looking to collaborate on **GitHub** 
-- 💬 Ask me about **Web Design & Development** 
-- 📫 How to reach me **[mdkamrulkhan995@gmail.com]**
+- 🔭 I’m Currently Working on **YouTube** 
+- 🌱 I’m Currently Learning **JavaScript** 
+- 👯 I’m Looking to Collaborate On **GitHub** 
+- 💬 Ask Me About **Web Design & Development** 
+- 📫 How to Reach Me **[mdkamrulkhan995@gmail.com]**
 
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kamrulthepro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kamrulthepro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kamrulthepro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kamrul_the_pro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kamrul_the_pro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/kamrulthepro)   -->
