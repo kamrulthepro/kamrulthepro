@@ -28,13 +28,13 @@ kamrulthepro**
 - 💬 Ask Me About **Web Design & Development** 
 - 📫 How to Reach Me **[mdkamrulkhan995@gmail.com]**
 
-📫**HOW TO REACH ME:**
-☑Facebook: ([kamrulthepro](https://www.facebook.com/kamrulthepro))
-☑Linkidin: kamrulthepro
-☑Instagram: kamrulthepro
-☑Twitter: kamrulthepro
+📫**HOW TO REACH ME:**<br>
+☑Facebook: ([kamrulthepro](https://www.facebook.com/kamrulthepro))<br>
+☑Linkidin: kamrulthepro<br>
+☑Instagram: kamrulthepro<br>
+☑Twitter: kamrulthepro<br>
 
- ([link](http://example.com))
+<!--  ([link](http://example.com)) -->
 
 
 
