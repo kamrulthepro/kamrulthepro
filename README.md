@@ -32,7 +32,7 @@ kamrulthepro**
 ☑Facebook: **[kamrulthepro](https://www.facebook.com/kamrulthepro)<br>**
 ☑Linkedin: **[kamrulthepro](https://www.linkedin.com/in/kamrulthepro/)<br>**
 ☑Instagram: **[kamrulthepro](https://www.instagram.com/kamrulthepro/)<br>**
-☑E-Mail: **[mdkamrulkhan995@gmail.com]**
+☑E-Mail: **mdkamrulkhan995@gmail.com**
 
 
 <!--  [link](http://example.com) -->
