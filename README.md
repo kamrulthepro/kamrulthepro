@@ -21,22 +21,15 @@ kamrulthepro**
 ☑️WordPress E-Commerces Website.<br>
 ☑️Portfolio Website.<br>
 
-
-- 🔭 I’m Currently Working on **YouTube** 
-- 🌱 I’m Currently Learning **JavaScript** 
-- 👯 I’m Looking to Collaborate On **GitHub** 
-- 💬 Ask Me About **Web Design & Development** 
-- 📫 How to Reach Me **[mdkamrulkhan995@gmail.com]**
-
-📫**HOW TO REACH ME:**<br>
-☑Facebook: **[kamrulthepro](https://www.facebook.com/kamrulthepro)<br>**
-☑Linkedin: **[kamrulthepro](https://www.linkedin.com/in/kamrulthepro/)<br>**
-☑Instagram: **[kamrulthepro](https://www.instagram.com/kamrulthepro/)<br>**
-☑E-Mail: **mdkamrulkhan995@gmail.com**
+<!-- 
+**🛑MY CURRENT ACTIVITY:** -->
 
 
-<!--  [link](http://example.com) -->
-
+**🛑HOW TO REACH ME:**<br>
+✔️Facebook: **[kamrulthepro](https://www.facebook.com/kamrulthepro)<br>**
+✔️Linkedin: **[kamrulthepro](https://www.linkedin.com/in/kamrulthepro/)<br>**
+✔️Instagram: **[kamrulthepro](https://www.instagram.com/kamrulthepro/)<br>**
+✔️E-Mail: **mdkamrulkhan995@gmail.com**
 
 
 
