@@ -29,8 +29,8 @@ kamrulthepro**
 - 📫 How to Reach Me **[mdkamrulkhan995@gmail.com]**
 
 📫**HOW TO REACH ME:**<br>
-☑Facebook: ([kamrulthepro](https://www.facebook.com/kamrulthepro))<br>
-☑Linkidin: kamrulthepro<br>
+☑Facebook: [kamrulthepro](https://www.facebook.com/kamrulthepro)<br>
+☑Linkedin: ([kamrulthepro](https://www.linkedin.com/in/kamrulthepro/))<br>
 ☑Instagram: kamrulthepro<br>
 ☑Twitter: kamrulthepro<br>
 
