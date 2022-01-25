@@ -13,6 +13,8 @@ kamrulthepro**
 ✅CSS<br>
 ✅Bootstarp<br>
 ✅WordPress<br>
+✅JavaScript<br>
+✅jQuery<br>
 
 
 **🔰EXPERIENCE:**<br>
