@@ -1,30 +1,37 @@
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQG_IgbgROkn1Q/profile-displaybackgroundimage-shrink_200_800/0/1635744085926?e=1648080000&v=beta&t=f54OQ5O8vXmgSIQPNa9ObC2DsUHqucBnc9TzCKZomRg)
 ![Profile views](https://gpvc.arturio.dev/kamrulthepro)<br>
 
-### Hi There,<br>***I'm Kamrul Islam***<br>**Front-End Web Developer with WordPress Expert.**<br>
-**Web Design & Development is my passion. I Love To Learn New Skills to Become myself a Pro Developer. Now Learning JavaScript. Full and Fresh Hand Code is My Power. I Get Deeper to Understand Client's Needs & Problems. My Mission is to Satisfy Every Client. Because Client Satisfaction is My First Priority. You'll Get Lifetime Support in Any Situation, I Promise that, You'll Get Fanatical Support And Absolutely Positively On-Time Delivery.<br>
+### Hi There,<br>
+**My name is Md. Kamrul Islam, And I'm Studying B.Sc in Computer Science & Engineering-(CSE) at Bangladesh University Of Business and Technology-BUBT. I'm a Front-End Web Developer. Web Design & Development is my passion. I Love To Learn New Skills to Become myself a Pro Developer. I Get Deeper to Understand Client's Needs & Problems. My Mission is to Satisfy Every Client. Because Client Satisfaction is My First Priority. Full & Fresh Hand Coding is My Power. You'll Get Lifetime Support in Any Situation, I Promise that, You'll Get Fanatical Support And Absolutely Positively On-Time Delivery.<br>
 Best Regards,<br>
-kamrulthepro**
+Kamrul Islam**
 
 
 
 **🎡MY SKILLS:**<br>
-✅HTML<br>
-✅CSS<br>
-✅Bootstarp<br>
-✅WordPress<br>
-✅JavaScript<br>
+✅HTML/HTML5.<br>
+✅CSS/CSS3.<br>
+✅Bootstarp.<br>
+✅JavaScript.<br>
 ✅jQuery<br>
+✅ Git, GitHub, Gitlab & Bitbucket.<br>
+✅ WordPress Customization.<br>
+✅ WordPress Speed Optimization.<br>
 
 
-**🔰EXPERIENCE:**<br>
-☑️Build Full Static Websites.<br>
-☑️Any WordPress Website.<br>
-☑️WordPress E-Commerces Website.<br>
-☑️Portfolio Website.<br>
 
-<!-- 
-**🛑MY CURRENT ACTIVITY:** -->
+**🔰MY SERVICES:**<br>
+☑️ HTML & CSS Problem Fix.<br>
+☑️ E-Commerce Website Design.<br>
+☑️ Restaurant Website Design.<br>
+☑️ Online Shopping Website Design.<br>
+☑️ Portfolio Website Design.<br>
+☑️ Blog Website Design.<br>
+☑️ Buy Sell Website Design.<br>
+☑️ Education/School/College/University Website Design.<br>
+☑️ Hospital Website Design.<br>
+☑️ Gym Website Design.<br>
+☑️ Traveling Website Design.<br>
 
 
 **🛑HOW TO REACH ME:**<br>
