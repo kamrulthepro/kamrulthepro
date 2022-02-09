@@ -1,4 +1,5 @@
-![](https://media-exp1.licdn.com/dms/image/C4E16AQG_IgbgROkn1Q/profile-displaybackgroundimage-shrink_200_800/0/1635744085926?e=1648080000&v=beta&t=f54OQ5O8vXmgSIQPNa9ObC2DsUHqucBnc9TzCKZomRg)
+![](https://media-exp1.licdn.com/dms/image/C5616AQGF9aTCm84wcA/profile-displaybackgroundimage-shrink_200_800/0/1644334284776?e=1649894400&v=beta&t=0VA8InFrG28dIrreNPPINVjIRVDukE4XYWH4on8u9YM)
+
 ![Profile views](https://gpvc.arturio.dev/kamrulthepro)<br>
 
 ### Hi There,<br>
