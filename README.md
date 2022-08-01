@@ -1,4 +1,4 @@
-![](https://media-exp1.licdn.com/dms/image/C5616AQGhk4FUmxBgfA/profile-displaybackgroundimage-shrink_200_800/0/1647192381381?e=1653523200&v=beta&t=M7vRpt66btyPltaZBeJW2mKb_KVXSUViLsuRoXsUZXU)
+![](https://pbs.twimg.com/profile_banners/1348241338844684291/1647192967/1080x360)
 
 ![Profile views](https://gpvc.arturio.dev/kamrulthepro)<br>
 
