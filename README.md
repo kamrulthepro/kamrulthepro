@@ -54,9 +54,10 @@ Kamrul Islam**
 ## ❄My Most Used Languages On GitHub:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulthepro)](https://github.com/anuraghazra/github-readme-stats)
 
+## ⭐My GitHub Stats:<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrulthepro&show_icons=true&count_private=true)  
 
-## ⭐My GitHub Stats:<br>
+## 💹My GitHub Activity:<br>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kamrulthepro)  
 
  
