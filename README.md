@@ -13,7 +13,7 @@ Kamrul Islam**
 
 ![Profile views](https://gpvc.arturio.dev/kamrulthepro)<br>
 
-## 🎡MY SKILLS:<br>
+### 🎡MY SKILLS:<br>
 ✅HTML/HTML5.<br>
 ✅CSS/CSS3.<br>
 ✅Bootstarp.<br>
@@ -24,7 +24,7 @@ Kamrul Islam**
 ✅ WordPress Speed Optimization.<br>
 
 
-## 🔰MY SERVICES:<br>
+### 🔰MY SERVICES:<br>
 ☑️ HTML & CSS Problem Fix.<br>
 ☑️ E-Commerce Website Design.<br>
 ☑️ Restaurant Website Design.<br>
@@ -38,7 +38,7 @@ Kamrul Islam**
 ☑️ Traveling Website Design.<br>
 
 
-## 💬HOW TO REACH ME:<br>
+### 💬HOW TO REACH ME:<br>
 ✔️Facebook: **[kamrulthepro](https://www.facebook.com/kamrulthepro)<br>**
 ✔️Linkedin: **[kamrulthepro](https://www.linkedin.com/in/kamrulthepro/)<br>**
 ✔️Instagram: **[kamrulthepro](https://www.instagram.com/kamrulthepro/)<br>**
@@ -51,13 +51,13 @@ Kamrul Islam**
 <!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>  -->
 
 
-## ❄MOST USED LANGUAGES ON GITHUB:<br>
+### ❄MOST USED LANGUAGES ON GITHUB:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulthepro)](https://github.com/anuraghazra/github-readme-stats)
 
-## ⭐MY GITHUB STATS:<br>
+### ⭐MY GITHUB STATS:<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrulthepro&show_icons=true&count_private=true)  
 
-## 💹MY GITHUB ACTIVITY:<br>
+### 💹MY GITHUB ACTIVITY:<br>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kamrulthepro)  
 
  
