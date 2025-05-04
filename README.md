@@ -54,31 +54,6 @@ Best regards,
 
 ---
 
-### 🎡My Skills:<br>
-✅HTML/HTML5.<br>
-✅CSS/CSS3.<br>
-✅Bootstarp.<br>
-✅JavaScript.<br>
-✅jQuery<br>
-✅ Git, GitHub, Gitlab & Bitbucket.<br>
-✅ WordPress Customization.<br>
-✅ WordPress Speed Optimization.<br>
-
-
-### 🔰My Services:<br>
-☑️ HTML & CSS Problem Fix.<br>
-☑️ E-Commerce Website Design.<br>
-☑️ Restaurant Website Design.<br>
-☑️ Online Shopping Website Design.<br>
-☑️ Portfolio Website Design.<br>
-☑️ Blog Website Design.<br>
-☑️ Buy Sell Website Design.<br>
-☑️ Education/School/College/University Website Design.<br>
-☑️ Hospital Website Design.<br>
-☑️ Gym Website Design.<br>
-☑️ Traveling Website Design.<br>
-
-
 ### 💬HOW TO REACH ME:<br>
 ✔️Facebook: **[kamrulthepro](https://www.facebook.com/kamrulthepro)<br>**
 ✔️Linkedin: **[kamrulthepro](https://www.linkedin.com/in/kamrulthepro/)<br>**
