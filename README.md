@@ -22,24 +22,34 @@ Kamrul Islam-->
 
 ---
 
-## 👤 About Me
+# 👤 About Me
 
-Hello! I'm **Md. Kamrul Islam**, a dedicated **Front-End Web Developer** and **WordPress Expert**, currently pursuing a B.Sc. in Zoology at **Sirjaganj Govt. College, Sirajganj (NU)**.
+Hi, I'm **Md. Kamrul Islam**, currently pursuing a **B.Sc. in Zoology** at the **National University (NU)**.  
+I'm also a **dedicated full-time freelancer**, specializing in:
 
-💡 I'm passionate about **web design and development**, and I enjoy turning ideas into elegant, functional websites.  
-📚 I love learning new technologies to continually grow as a developer.  
-🔍 I take the time to deeply understand clients’ needs and challenges.
+- 🛠️ **WordPress Development**
+- 🛒 **E-Commerce**
+- 🌐 **Elementor**
+- 🚀 **Speed Optimization**
+- 🔐 **Website Security & Malware Removal**
+- 📈 **SEO**
+- 📄 **Whitepaper Design & Development**
 
-### 🎯 My Mission
-To deliver high-quality, hand-coded, and optimized solutions that ensure **client satisfaction** — my top priority.
+💻 Web design and development isn't just my profession — it's my **passion**.  
+I’m always eager to learn new skills and push myself to grow as a developer. I dive deep to understand each client’s unique needs and challenges.
 
-You can expect:
-- ✔️ Clean, fresh, and professional coding
-- ✔️ Responsive communication & lifetime support
-- ✔️ On-time delivery with full dedication
+### 🎯 My Mission  
+To ensure **client satisfaction** by delivering high-quality, timely, and personalized solutions.
 
-Thank you for visiting my profile!  
-**Best Regards,**  
+You can expect from me:
+- ✅ Clean and professional work  
+- ✅ Lifetime support in any situation  
+- ✅ Reliable and on-time delivery  
+- ✅ Fanatical commitment to your success
+
+**Let’s build something great together!**
+
+Best regards,  
 **Kamrul Islam**
 
 ---
