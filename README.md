@@ -7,13 +7,12 @@
 
 ## About Me
 ### Hi There,<br>
-**My name is Md. Kamrul Islam, And I'm Studying B.Sc in Computer Science & Engineering-(CSE) at Bangladesh University Of Business and Technology-BUBT. I'm a Front-End Web Designer & Developer, and also WordPress Expert. Web Design & Development is my passion. I Love To Learn New Skills to Become myself a Pro Developer. I Get Deeper to Understand Client's Needs & Problems. My Mission is to Satisfy Every Client. Because Client Satisfaction is My First Priority. Full & Fresh Hand Coding is My Power. You'll Get Lifetime Support in Any Situation, I Promise that, You'll Get Fanatical Support And Absolutely Positively On-Time Delivery.<br>
+My name is Md. Kamrul Islam, And I'm Studying B.Sc in Computer Science & Engineering-(CSE) at Bangladesh University Of Business and Technology-BUBT. I'm a Front-End Web Designer & Developer, and also WordPress Expert. Web Design & Development is my passion. I Love To Learn New Skills to Become myself a Pro Developer. I Get Deeper to Understand Client's Needs & Problems. My Mission is to Satisfy Every Client. Because Client Satisfaction is My First Priority. Full & Fresh Hand Coding is My Power. You'll Get Lifetime Support in Any Situation, I Promise that, You'll Get Fanatical Support And Absolutely Positively On-Time Delivery.<br>
 Best Regards,<br>
-Kamrul Islam**
-![Profile Views](https://komarev.com/ghpvc/?username=kamrulthepro&color=blue)
-<!-- ![Profile views](https://gpvc.arturio.dev/kamrulthepro)<br>-->
+Kamrul Islam
 
-### 🎡MY SKILLS:<br>
+
+### 🎡My Skills:<br>
 ✅HTML/HTML5.<br>
 ✅CSS/CSS3.<br>
 ✅Bootstarp.<br>
@@ -24,7 +23,7 @@ Kamrul Islam**
 ✅ WordPress Speed Optimization.<br>
 
 
-### 🔰MY SERVICES:<br>
+### 🔰My Services:<br>
 ☑️ HTML & CSS Problem Fix.<br>
 ☑️ E-Commerce Website Design.<br>
 ☑️ Restaurant Website Design.<br>
