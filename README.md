@@ -1,5 +1,4 @@
-## Welcome To My Profile
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!)
 
 ![](https://github.com/kamrulthepro/kamrulthepro/blob/main/welcome1.png?raw=true)
 
