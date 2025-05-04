@@ -22,7 +22,7 @@ Kamrul Islam-->
 
 ---
 
-# 👤 About Me
+## 👤 About Me
 
 Hi, I'm **Md. Kamrul Islam**, currently pursuing a **B.Sc. in Zoology** at the **National University (NU)**.  
 I'm also a **dedicated full-time freelancer**, specializing in:
@@ -54,7 +54,7 @@ Best regards,
 
 ---
 
-# 📬 How to Reach Me
+## 📬 How to Reach Me
 
 You can find me on the following platforms:
 
@@ -77,7 +77,7 @@ You can find me on the following platforms:
 ### ⭐MY GITHUB STATS:<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrulthepro&show_icons=true&count_private=true)  -->
 
-# 📊 GitHub Overview
+## 📊 GitHub Overview
 
 <table>
   <tr>
