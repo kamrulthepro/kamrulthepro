@@ -1,6 +1,9 @@
 <div align="center">
+  
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=E0E0E0&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!)
+
 </div>
+
 ![](https://github.com/kamrulthepro/kamrulthepro/blob/main/welcome1.png?raw=true)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamrulthepro)
