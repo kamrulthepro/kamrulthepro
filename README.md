@@ -54,6 +54,17 @@ Best regards,
 
 ---
 
+# 📬 How to Reach Me
+
+You can find me on the following platforms:
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/kamrulthepro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamrulthepro)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kamrulthepro)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/kamrulthepro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdkamrulkhan995@gmail.com)
+
+
 # 💬HOW TO REACH ME:<br>
 ✔️Facebook: **[kamrulthepro](https://www.facebook.com/kamrulthepro)<br>**
 ✔️Linkedin: **[kamrulthepro](https://www.linkedin.com/in/kamrulthepro/)<br>**
