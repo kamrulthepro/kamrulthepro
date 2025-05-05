@@ -63,6 +63,8 @@ You can find me on the following platforms:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kamrulthepro)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/kamrulthepro)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdkamrulkhan995@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-kamrulthepro-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)
+
 
 ---
 
